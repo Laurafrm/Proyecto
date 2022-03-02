@@ -1,3 +1,1 @@
-arr.forEach(funtion(item) {
-	console.log(item);
-}};
+console.log(arr.toString());
