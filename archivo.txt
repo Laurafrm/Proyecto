@@ -1,3 +1,3 @@
-Esta es un prueba  de git
-Nueva linea de codigo
-Nueva linea de codigo 2
+arr.forEach(funtion(item) {
+	console.log(item);
+}};
